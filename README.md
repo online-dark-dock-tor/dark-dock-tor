@@ -78,4 +78,6 @@ Store your mnemonic code securely for account recovery.
 
 
 
-Update:  07/14/2025 url is now accessible and operational
+
+
+Update: Menu links
